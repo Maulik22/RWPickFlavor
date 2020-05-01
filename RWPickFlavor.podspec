@@ -25,7 +25,7 @@ s.source = { :git => "https://github.com/Maulik22/RWPickFlavor.git",
 
 # 7
 s.framework = "UIKit"
-s.dependency 'Alamofire', '~> 4.7'
+s.dependency 'Alamofire', '~> 5.1'
 s.dependency 'MBProgressHUD', '~> 1.1.0'
 
 # 8
